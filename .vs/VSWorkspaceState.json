@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\32_control",
+    "\\32_control\\MDK-ARM",
+    "\\32_control\\Src",
+    "\\32_control\\USER"
+  ],
+  "SelectedNode": "\\32_control\\Src\\freertos.c",
+  "PreviewInSolutionExplorer": false
+}
